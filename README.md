@@ -1,4 +1,4 @@
-# t_limit - Vehicle Speed Limiter
+# t_limit - Vehicle Speed Limiter made by gandalfthegreet optimised by skeezle
 
 A high-performance vehicle speed limit enforcement system for FiveM servers. This script automatically prevents vehicles from exceeding configured speed limits and applies braking force when limits are surpassed, promoting safer gameplay and server balance.
 
