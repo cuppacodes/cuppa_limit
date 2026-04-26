@@ -8,9 +8,6 @@ version "1.0.0"
 
 lua54 'yes'
 
-server_script '@ElectronAC/src/include/server.lua'
-client_script '@ElectronAC/src/include/client.lua'
-
 client_scripts {
     'config.lua',
     'client.lua',

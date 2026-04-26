@@ -1,6 +1,6 @@
 SpeedLimit = {}
 
--- Speed limit configuration
+-- Speed limit configuration (set both MPH and KPH for failver)
 SpeedLimit.MaxSpeedMPH = 160.0 -- Maximum allowed speed in miles per hour
 SpeedLimit.MaxSpeedKPH = 257.49 -- Maximum allowed speed in kilometers per hour (converted from MPH)
 SpeedLimit.EnableSpeedLimit = true -- Enable or disable the speed limit system

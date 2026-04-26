@@ -1,4 +1,4 @@
-# t_limit - Vehicle Speed Limiter made by gandalfthegreet optimised by skeezle
+# cuppa_limit - Vehicle Speed Limiter made by cuppcodes in collaboration with skeezle
 
 A high-performance vehicle speed limit enforcement system for FiveM servers. This script automatically prevents vehicles from exceeding configured speed limits and applies braking force when limits are surpassed, promoting safer gameplay and server balance.
 
@@ -20,9 +20,9 @@ A high-performance vehicle speed limit enforcement system for FiveM servers. Thi
 ## Installation
 
 1. Download or clone this repository
-2. Copy the `t_limit` folder to your server's `resources` directory
-3. Add `ensure t_limit` to your `server.cfg` file
-4. Restart your server or run `refresh` then `ensure t_limit`
+2. Copy the `cuppa_limit` folder to your server's `resources` directory
+3. Add `ensure cuppa_limit` to your `server.cfg` file
+4. Restart your server or run `refresh` then `ensure cuppa_limit`
 
 ## Configuration
 
